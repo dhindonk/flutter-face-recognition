@@ -24,7 +24,7 @@
 </queries>
 
     <application
-        android:label="Attendify"
+        android:label="Face Recognition"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
